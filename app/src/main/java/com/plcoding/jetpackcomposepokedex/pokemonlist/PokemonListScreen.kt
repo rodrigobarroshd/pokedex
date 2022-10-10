@@ -210,6 +210,7 @@ fun PokedexEntry(
                 CircularProgressIndicator(
                     color = MaterialTheme.colors.primary,
                     modifier = Modifier.scale(0.5f)
+
                 )
 
             }
