@@ -1,4 +1,6 @@
-# pokedex kotlin
+# Pokedex using Kotlin
+
+JetPack Compose
 
 
 
